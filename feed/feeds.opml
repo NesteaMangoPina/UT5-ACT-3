@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Suscripción a Feeds - El Rincón de Vyse</title>
+  </head>
+  <body>
+    <outline text="Blog - Noticias de Valorant" type="rss" xmlUrl="https://tusitio.com/feed/rss.xml" htmlUrl="https://tusitio.com/blog/"/>
+    <outline text="Podcast - Valorant eSports" type="rss" xmlUrl="https://tusitio.com/feed/podcast.xml" htmlUrl="https://tusitio.com/podcast/"/>
+  </body>
+</opml>

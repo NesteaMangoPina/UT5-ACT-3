@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>El Rincón de Vyse - Blog</title>
+    <link>https://tusitio.com/blog/</link>
+    <description>Últimas noticias, análisis y estrategias sobre Valorant</description>
+    <language>es</language>
+    
+    <item>
+      <title>T1 se consagra campeón en el Valorant Masters Bangkok 2025</title>
+      <link>https://tusitio.com/blog/post/post1.html</link>
+      <description>T1 venció a G2 Esports 3-2 en la final del Valorant Masters Bangkok 2025, obteniendo su primer título internacional.</description>
+      <pubDate>Tue, 04 Mar 2025 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Heretics: Análisis de su roster y último enfrentamiento</title>
+      <link>https://tusitio.com/blog/post/post2.html</link>
+      <description>Heretics se enfrentó a Fnatic en un partido reñido. Analizamos su alineación y rendimiento en el torneo.</description>
+      <pubDate>Mon, 03 Mar 2025 14:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>G2 Esports: Evaluación de su roster y los últimos resultados</title>
+      <link>https://tusitio.com/blog/post/post3.html</link>
+      <description>G2 Esports continúa dominando en Valorant con un equipo talentoso. Recientemente, vencieron a Team Liquid en un enfrentamiento clave.</description>
+      <pubDate>Sun, 02 Mar 2025 10:30:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
