@@ -8,8 +8,8 @@
     
     <item>
       <title>Episodio 1: Introducción al mundo de los eSports</title>
-      <link>https://nesteamangopina.github.io/podcast/</link>
-      <enclosure url="https://nesteamangopina.github.io/podcast/audios/episodio1.mp3" length="12345678" type="audio/mpeg"/>
+      <link>https://nesteamangopina.github.io/podcast/index.html</link>
+      <enclosure url="https://nesteamangopina.github.io/UT5-ACT-3/podcast/audios/episodio1.mp3" length="12345678" type="audio/mpeg"/>
       <description>Exploramos el inicio y la evolución de los eSports, con un enfoque especial en Valorant.</description>
       <pubDate>Sat, 01 Mar 2025 08:00:00 GMT</pubDate>
     </item>
@@ -24,7 +24,7 @@
 
     <item>
       <title>Episodio 3: Análisis de las mejores jugadas en competiciones de Valorant</title>
-      <link>https://nesteamangopina.github.io/podcast/</link>
+      <link>https://nesteamangopina.github.io/podcast</link>
       <enclosure url="https://nesteamangopina.github.io/podcast/audios/episodio3.mp3" length="12345678" type="audio/mpeg"/>
       <description>Desglosamos algunas de las jugadas más impresionantes de los últimos torneos de Valorant.</description>
       <pubDate>Tue, 27 Feb 2025 15:45:00 GMT</pubDate>
