@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>Suscripción a Feeds - El Rincón de Vyse</title>
+    <title>El Rincón de Vyse - Feeds</title>
   </head>
   <body>
-    <outline text="Blog - Noticias de Valorant" type="rss" xmlUrl="https://tusitio.com/feed/rss.xml" htmlUrl="https://tusitio.com/blog/"/>
-    <outline text="Podcast - Valorant eSports" type="rss" xmlUrl="https://tusitio.com/feed/podcast.xml" htmlUrl="https://tusitio.com/podcast/"/>
+    <outline type="rss" text="El Rincón de Vyse - Blog" title="Blog" xmlUrl="https://nesteamangopina.github.io/web-rss/feed/rss.xml" htmlUrl="https://nesteamangopina.github.io/web-rss/blog/"/>
+    <outline type="rss" text="El Rincón de Vyse - Podcast" title="Podcast" xmlUrl="https://nesteamangopina.github.io/web-rss/feed/podcast.xml" htmlUrl="https://nesteamangopina.github.io/web-rss/podcast/"/>
   </body>
 </opml>
