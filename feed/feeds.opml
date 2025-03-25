@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<opml version="2.0">
+<opml version="1.0">
   <head>
-    <title>El Rincón de Vyse - Feeds</title>
+    <title>Feeds de El Rincón de Vyse</title>
   </head>
   <body>
-    <outline type="rss" text="El Rincón de Vyse - Blog" title="Blog" xmlUrl="https://nesteamangopina.github.io/web-rss/feed/rss.xml" htmlUrl="https://nesteamangopina.github.io/web-rss/blog/"/>
-    <outline type="rss" text="El Rincón de Vyse - Podcast" title="Podcast" xmlUrl="https://nesteamangopina.github.io/web-rss/feed/podcast.xml" htmlUrl="https://nesteamangopina.github.io/web-rss/podcast/"/>
+    <outline text="Blog - El Rincón de Vyse" type="rss"
+      xmlUrl="https://nesteamangopina.github.io/UT5-ACT-3/feed/rss.xml"
+      htmlUrl="https://nesteamangopina.github.io/UT5-ACT-3/blog/index.html"/>
+    
+    <outline text="Podcast - El Rincón de Vyse" type="rss"
+      xmlUrl="https://nesteamangopina.github.io/UT5-ACT-3/feed/podcast.xml"
+      htmlUrl="https://nesteamangopina.github.io/UT5-ACT-3/podcast/index.html"/>
   </body>
 </opml>
