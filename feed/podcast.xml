@@ -2,13 +2,13 @@
 <rss version="2.0">
   <channel>
     <title>El Rincón de Vyse - Podcast</title>
-    <link>https://nesteamangopina.github.io/podcast/index.html</link>
+    <link>https://nesteamangopina.github.io/UT5-ACT-3/podcast/index.html</link>
     <description>Análisis y debates sobre la escena competitiva de Valorant</description>
     <language>es</language>
     
     <item>
       <title>Episodio 1: Introducción al mundo de los eSports</title>
-      <link>https://nesteamangopina.github.io/podcast/index.html</link>
+      <link>https://nesteamangopina.github.io/UT5-ACT-3/podcast/index.html</link>
       <enclosure url="https://nesteamangopina.github.io/UT5-ACT-3/podcast/audios/episodio1.mp3" length="12345678" type="audio/mpeg"/>
       <description>Exploramos el inicio y la evolución de los eSports, con un enfoque especial en Valorant.</description>
       <pubDate>Sat, 01 Mar 2025 08:00:00 GMT</pubDate>
@@ -16,16 +16,16 @@
 
     <item>
       <title>Episodio 2: El camino hacia el profesionalismo en Valorant</title>
-      <link>https://nesteamangopina.github.io/podcast/</link>
-      <enclosure url="https://nesteamangopina.github.io/podcast/audios/episodio2.mp3" length="12345678" type="audio/mpeg"/>
+      <link>https://nesteamangopina.github.io/UT5-ACT-3/podcast/</link>
+      <enclosure url="https://nesteamangopina.github.io/UT5-ACT-3/podcast/audios/episodio2.mp3" length="12345678" type="audio/mpeg"/>
       <description>Cómo convertirse en jugador profesional de Valorant, con consejos de jugadores y entrenadores.</description>
       <pubDate>Thu, 29 Feb 2025 09:30:00 GMT</pubDate>
     </item>
 
     <item>
       <title>Episodio 3: Análisis de las mejores jugadas en competiciones de Valorant</title>
-      <link>https://nesteamangopina.github.io/podcast</link>
-      <enclosure url="https://nesteamangopina.github.io/podcast/audios/episodio3.mp3" length="12345678" type="audio/mpeg"/>
+      <link>https://nesteamangopina.github.io/UT5-ACT-3/podcast</link>
+      <enclosure url="https://nesteamangopina.github.io/UT5-ACT-3/podcast/audios/episodio3.mp3" length="12345678" type="audio/mpeg"/>
       <description>Desglosamos algunas de las jugadas más impresionantes de los últimos torneos de Valorant.</description>
       <pubDate>Tue, 27 Feb 2025 15:45:00 GMT</pubDate>
     </item>
